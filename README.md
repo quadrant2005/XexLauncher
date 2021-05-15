@@ -1,2 +1,2 @@
 # XexLauncher
- Launch Xex Wrappered Dll's
+ Launch Xbox 360 Xex Wrappered Dll's
